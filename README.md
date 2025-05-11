@@ -131,6 +131,7 @@ python anpr.py --video videos/sample.mp4 --output output/
 * 📦 Export results in CSV/JSON
 * 🧪 GUI with Tkinter or Streamlit
 * 🔐 Vehicle database integration
+* 🧠 dashcam product
 
 ---
 
